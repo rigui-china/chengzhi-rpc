@@ -1,0 +1,4 @@
+jdk=com.chengzhi.chengrpc.serializer.JdkSerializer
+hessian=com.chengzhi.chengrpc.serializer.HessianSerializer
+json=com.chengzhi.chengrpc.serializer.JsonSerializer
+kryo=com.chengzhi.chengrpc.serializer.KryoSerializer

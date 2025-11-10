@@ -1,0 +1,6 @@
+# 项目排除路径
+/chengzhi-rpc-core/target/
+/chengzhi-rpc-easy/target/
+/example-common/target/
+/example-consumer/target/
+/example-provider/target/

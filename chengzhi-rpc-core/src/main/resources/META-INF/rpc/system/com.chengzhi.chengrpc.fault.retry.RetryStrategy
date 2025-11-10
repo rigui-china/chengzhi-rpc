@@ -1,0 +1,2 @@
+no=com.chengzhi.chengrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.chengzhi.chengrpc.fault.retry.FixedIntervalRetryStrategy
